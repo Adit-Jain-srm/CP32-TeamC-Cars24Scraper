@@ -49,4 +49,5 @@ Develop hands-on skills in web scraping, data cleaning, and structured data pres
 - Any deviations (e.g., location changes) should be noted in both the notebook and report for traceability.
 
 ---
+
 Good luck, and happy scraping!
