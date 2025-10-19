@@ -200,6 +200,8 @@ Thumbs.db
 # Keep the analysis image and sample data
 !cars24_hyundai_mumbai/hyundai_cars_analysis.png
 !cars24_hyundai_mumbai/hyundai_cars_final.csv
+!cars24_hyundai_mumbai/hyundai_cars_raw.csv
+!cars24_hyundai_mumbai/hyundai_cars_cleaned.csv
 
 # ChromeDriver (keep the executable but ignore logs)
 chromedriver-win64/*.log
