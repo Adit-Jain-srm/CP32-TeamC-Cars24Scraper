@@ -1,0 +1,95 @@
+Car_Name               ,Year_of_Manufacture ,Kilometers_Driven ,Fuel_Type ,Transmission ,Price
+Hyundai Grand i10      ,               2016 ,            34.11 ,Petrol    ,Manual       , 3.35
+Hyundai Verna          ,               2018 ,            30.23 ,Petrol    ,Auto         , 6.68
+Hyundai Grand i10      ,               2018 ,            63.23 ,Petrol    ,Manual       , 3.5
+Hyundai Xcent          ,               2014 ,            96.9  ,Petrol    ,Manual       , 3.0
+Hyundai Elite i20      ,               2018 ,             1.1  ,Petrol    ,Manual       , 3.55
+Hyundai EXTER          ,               2023 ,             8.8  ,Petrol    ,Auto         , 7.47
+Hyundai Creta          ,               2019 ,            63.75 ,Petrol    ,Manual       , 8.3
+Hyundai Creta          ,               2016 ,            69.95 ,Petrol    ,Auto         , 5.9
+Hyundai AURA           ,               2020 ,            57.7  ,Diesel    ,Auto         , 5.42
+Hyundai Xcent          ,               2019 ,             1.3  ,CNG       ,Manual       , 3.55
+Hyundai Grand i10      ,               2019 ,            58.08 ,CNG       ,Manual       , 3.6
+Hyundai Grand i10      ,               2016 ,            57.73 ,Petrol    ,Manual       , 3.17
+Hyundai EXTER          ,               2023 ,             6.84 ,Petrol    ,Auto         , 7.52
+Hyundai i10            ,               2012 ,            43.17 ,CNG       ,Manual       , 2.1
+Hyundai New Elantra    ,               2021 ,            25.17 ,Petrol    ,Manual       , 8.1
+Hyundai NEW SANTRO     ,               2018 ,            38.04 ,CNG       ,Manual       , 3.32
+Hyundai AURA           ,               2021 ,            56.76 ,Petrol    ,Manual       , 4.9
+Hyundai Grand i10      ,               2015 ,            47.91 ,Petrol    ,Manual       , 2.8
+Hyundai AURA           ,               2021 ,            51.01 ,CNG       ,Manual       , 5.18
+Hyundai AURA           ,               2024 ,            28.9  ,Petrol    ,Manual       , 5.82
+Hyundai GRAND I10 NIOS ,               2022 ,            34.02 ,Petrol    ,Auto         , 5.6
+Hyundai Xcent          ,               2015 ,            66.76 ,Petrol    ,Manual       , 2.75
+Hyundai Creta          ,               2017 ,            76.4  ,Diesel    ,Manual       , 6.92
+Hyundai Grand i10      ,               2017 ,            23.6  ,Petrol    ,Auto         , 4.1
+Hyundai Grand i10      ,               2013 ,             1.3  ,CNG       ,Manual       , 2.25
+Hyundai GRAND I10 NIOS ,               2019 ,            37.61 ,CNG       ,Manual       , 5.1
+Hyundai Verna          ,               2017 ,            72.28 ,Petrol    ,Auto         , 5.92
+Hyundai VENUE          ,               2019 ,            46.45 ,Petrol    ,Auto         , 7.0
+Hyundai Xcent          ,               2015 ,            71.7  ,Petrol    ,Manual       , 3.08
+Hyundai VENUE          ,               2020 ,            63.77 ,Petrol    ,Manual       , 6.87
+Hyundai Verna          ,               2015 ,            62.61 ,Diesel    ,Manual       , 5.1
+Hyundai Eon            ,               2013 ,            47.06 ,Petrol    ,Manual       , 1.95
+Hyundai Xcent          ,               2017 ,             1.0  ,Petrol    ,Manual       , 3.03
+Hyundai Creta          ,               2017 ,            49.69 ,Petrol    ,Manual       , 5.97
+Hyundai Elite i20      ,               2018 ,            54.37 ,Petrol    ,Manual       , 5.0
+Hyundai Elite i20      ,               2015 ,            99.66 ,Petrol    ,Manual       , 3.15
+Hyundai Creta          ,               2016 ,            98.67 ,Diesel    ,Manual       , 6.02
+Hyundai Verna          ,               2018 ,            69.47 ,Petrol    ,Auto         , 6.69
+Hyundai NEW SANTRO     ,               2021 ,            39.33 ,Petrol    ,Manual       , 3.81
+Hyundai Creta          ,               2015 ,            87.77 ,Petrol    ,Manual       , 5.65
+Hyundai NEW I20        ,               2021 ,            31.68 ,Petrol    ,Auto         , 7.31
+Hyundai Creta          ,               2019 ,            42.44 ,Petrol    ,Manual       , 6.65
+Hyundai Creta          ,               2017 ,            43.58 ,Petrol    ,Manual       , 6.58
+Hyundai VENUE          ,               2020 ,            64.85 ,Petrol    ,Manual       , 6.6
+Hyundai NEW I20        ,               2022 ,            30.04 ,Petrol    ,Auto         , 8.15
+Hyundai VENUE          ,               2020 ,            72.27 ,Petrol    ,Manual       , 6.22
+Hyundai Xcent          ,               2016 ,             1.1  ,Petrol    ,Manual       , 3.4
+Hyundai Creta          ,               2016 ,            81.04 ,Petrol    ,Manual       , 5.15
+Hyundai VENUE          ,               2022 ,            22.47 ,Petrol    ,Manual       , 8.55
+Hyundai Grand i10      ,               2014 ,            34.46 ,Petrol    ,Manual       , 3.15
+Hyundai VENUE          ,               2021 ,            38.02 ,Petrol    ,Manual       , 7.05
+Hyundai VENUE          ,               2019 ,            71.15 ,Petrol    ,Manual       , 6.2
+Hyundai Elite i20      ,               2019 ,            90.54 ,Petrol    ,Manual       , 5.15
+Hyundai GRAND I10 NIOS ,               2021 ,            45.47 ,CNG       ,Manual       , 5.2
+Hyundai AURA           ,               2020 ,            23.94 ,Petrol    ,Auto         , 5.5
+Hyundai i10            ,               2012 ,            17.9  ,Petrol    ,Manual       , 2.5
+Hyundai i20            ,               2013 ,            58.7  ,Petrol    ,Manual       , 1.8
+Hyundai Verna          ,               2011 ,            87.0  ,Petrol    ,Manual       , 1.9
+Hyundai i20            ,               2012 ,            87.48 ,Petrol    ,Manual       , 1.3
+Hyundai i20            ,               2011 ,             1.4  ,Petrol    ,Manual       , 1.65
+Hyundai VENUE          ,               2021 ,            41.64 ,Petrol    ,Manual       , 6.2
+Hyundai Xcent          ,               2015 ,             1.0  ,Petrol    ,Manual       , 2.75
+Hyundai Verna          ,               2014 ,            98.09 ,Petrol    ,Manual       , 2.85
+Hyundai VENUE          ,               2021 ,            52.12 ,Petrol    ,Manual       , 6.25
+Hyundai Grand i10      ,               2017 ,             1.6  ,Petrol    ,Auto         , 3.0
+Hyundai Grand i10      ,               2015 ,            79.75 ,Petrol    ,Manual       , 2.9
+Hyundai Elite i20      ,               2019 ,            35.32 ,Petrol    ,Manual       , 5.0
+Hyundai Eon            ,               2014 ,            28.24 ,Petrol    ,Manual       , 1.65
+Hyundai NEW SANTRO     ,               2019 ,            36.71 ,Petrol    ,Manual       , 3.25
+Hyundai Creta          ,               2017 ,            46.67 ,Petrol    ,Manual       , 5.95
+Hyundai NEW I20        ,               2023 ,            12.78 ,Petrol    ,Auto         , 8.0
+Hyundai Grand i10      ,               2015 ,            12.11 ,Petrol    ,Manual       , 3.15
+Hyundai Xcent          ,               2016 ,             1.1  ,Petrol    ,Manual       , 3.1
+Hyundai Creta          ,               2017 ,            94.62 ,Petrol    ,Auto         , 6.5
+Hyundai GRAND I10 NIOS ,               2022 ,            31.76 ,Petrol    ,Manual       , 5.5
+Hyundai GRAND I10 NIOS ,               2022 ,            21.09 ,Petrol    ,Manual       , 5.5
+Hyundai NEW SANTRO     ,               2021 ,            44.49 ,Petrol    ,Manual       , 4.75
+Hyundai Creta          ,               2016 ,            16.94 ,Petrol    ,Auto         , 7.5
+Hyundai AURA           ,               2024 ,            27.0  ,Petrol    ,Manual       , 8.1
+Hyundai NEW SANTRO     ,               2020 ,             1.1  ,Petrol    ,Manual       , 3.5
+Hyundai Creta          ,               2017 ,            32.25 ,Petrol    ,Auto         , 7.5
+Hyundai Creta N Line   ,               2024 ,            14.5  ,Petrol    ,Manual       ,14.0
+Hyundai Creta          ,               2015 ,            48.65 ,Petrol    ,Manual       , 5.51
+Hyundai Creta          ,               2021 ,            31.34 ,Petrol    ,Auto         ,13.0
+Hyundai VENUE          ,               2020 ,            45.12 ,Petrol    ,Manual       , 7.0
+Hyundai NEW I20 N LINE ,               2022 ,            38.9  ,Petrol    ,Manual       , 6.75
+Hyundai i20            ,               2014 ,            44.9  ,Petrol    ,Manual       , 3.32
+Hyundai Verna          ,               2012 ,            64.7  ,Petrol    ,Manual       , 2.75
+Hyundai i10            ,               2013 ,            55.42 ,Petrol    ,Manual       , 1.65
+Hyundai NEW I20 N LINE ,               2022 ,            28.61 ,Petrol    ,Manual       , 7.26
+Hyundai Creta          ,               2019 ,            81.38 ,Diesel    ,Manual       , 8.32
+Hyundai NEW I20        ,               2020 ,            71.36 ,Petrol    ,Auto         , 6.72
+Hyundai Grand i10      ,               2018 ,            55.95 ,Petrol    ,Auto         , 4.0
+Hyundai Xcent          ,               2015 ,            36.89 ,Petrol    ,Manual       , 3.0
