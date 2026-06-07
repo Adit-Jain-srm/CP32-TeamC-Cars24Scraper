@@ -1,4 +1,20 @@
-# CP32 — Team C — Cars24 Web Scraping Mini Project
+<div align="center">
+
+# Cars24 Scraper
+
+**Web Scraping and Data Analysis for Used Car Market**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-Scraping-43B02A?logo=selenium)](https://www.selenium.dev/)
+[![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458?logo=pandas)](https://pandas.pydata.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Adit-Jain-srm/CP32-TeamC-Cars24Scraper)](https://github.com/Adit-Jain-srm/CP32-TeamC-Cars24Scraper)
+
+*Automated data collection and analysis of the used car market from Cars24.*
+
+</div>
+
+---
 
 A comprehensive web scraping project for extracting Hyundai car listings from Cars24, featuring advanced data analysis and visualization.
 
